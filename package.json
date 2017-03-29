@@ -1,0 +1,26 @@
+{
+  "name": "fuckit",
+  "version": "1.0.0",
+  "description": "For when you have completely given up on your NPM package and you do not care anymore...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidadas/fuckit.git"
+  },
+  "keywords": [
+    "Fuck",
+    "It",
+    "I",
+    "Give",
+    "Up"
+  ],
+  "author": "David Adams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidadas/fuckit/issues"
+  },
+  "homepage": "https://github.com/davidadas/fuckit#readme"
+}
