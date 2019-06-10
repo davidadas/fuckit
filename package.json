@@ -1,6 +1,6 @@
 {
   "name": "fuckit",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "For when you have completely given up on your NPM package and you do not care anymore...",
   "main": "index.js",
   "scripts": {
